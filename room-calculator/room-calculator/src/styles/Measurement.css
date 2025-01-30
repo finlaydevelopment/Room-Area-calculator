@@ -1,0 +1,99 @@
+.mainContainer{
+    padding: 20px;
+    
+}
+
+select {
+    display: none;
+}
+
+.measurementUpper-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.measurementUpper-container h3{
+    font-size: 25px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+.marginRight{
+    margin: 0 150px 0 0;
+}
+
+
+
+.labelUpper-style label {
+    padding: 5px 15px 5px 15px;
+    font-size: 20px;
+}
+
+.labelUpper-style input {
+    position: absolute;
+    opacity: 0;
+}
+
+.labelLower-style {
+    margin: 10px 0px 10px 0;
+    width: 350px;
+}
+
+.labelLower-style input {
+    position: absolute;
+    opacity: 0;
+}
+
+.labelLower-style label{
+    padding: 5px 15px 5px 15px;
+}
+
+.selectedUnit{
+    background-color: #696969;
+
+}
+
+.unselectedUnit{
+    background-color: lightgrey;
+}
+.userInput-style{
+    display: flex;
+    margin: 10px 0 10px 0;
+}
+
+
+.userInput-style p{
+    margin: 0 5px 0 5px;
+}
+.userInput-style input{
+    border: none;
+    border-radius: 30px;
+    -moz-appearance: textfield;
+    padding: 8px 5px 8px 10px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.userInput-style input:focus{
+    outline-width: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.containerFlex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.infoDisplay{
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.font15{
+    font-size: 15px;
+}
