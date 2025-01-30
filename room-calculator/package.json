@@ -2,7 +2,7 @@
   "name": "room-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://finlaydevelopment.github.io/room-calculator",
+  "homepage": "https://finlaydevelopment.github.io/Room-Area-calculator",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
