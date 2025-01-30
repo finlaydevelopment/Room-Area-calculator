@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+🏠 Room Calculator
+A professional React-based Room Calculator that helps users determine how many flooring boxes they need based on their room size. This project allows users to select different flooring products and automatically calculates cost, coverage, and required boxes.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Features
+✅ Product Selection – Choose from multiple flooring products
+✅ Unit Conversion – Supports square meters (m²) and square feet (ft²)
+✅ Box Estimation – Automatically calculates the required number of boxes
+✅ Price Calculation – Displays total cost including VAT
 
-## Available Scripts
+📦 Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/YOUR_USERNAME/room-calculator.git
 
-In the project directory, you can run:
+cd room-calculator
 
-### `npm start`
+2️⃣ Install Dependencies npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3️⃣ Run the Development Server npm start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🚀 The project will be available at http://localhost:3000.
 
-### `npm test`
+📊 How It Works
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1️⃣ Select a Product – Users choose from a predefined list of flooring options
 
-### `npm run build`
+2️⃣ Enter Room Size – Either total area (m²/ft²) or width & length
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3️⃣ Calculate Boxes & Price – The app determines how many boxes are needed
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+4️⃣ Automatic Unit Conversion – Switch between m² and ft² effortlessly
