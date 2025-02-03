@@ -17,8 +17,6 @@ A professional **React-based Room Calculator** that helps users determine how ma
 ## 📦 Installation & Setup
 
 ### **1️⃣ Clone the Repository**
-git clone https://github.com/YOUR_USERNAME/room-calculator.git
-
 cd room-calculator
 
 2️⃣ Install Dependencies
