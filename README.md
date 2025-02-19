@@ -17,6 +17,8 @@ A professional **React-based Room Calculator** that helps users determine how ma
 ## 📦 Installation & Setup
 
 ### **1️⃣ Clone the Repository**
+```git clone https://github.com/finlaydevelopment/Room-Area-calculator```
+
 ```cd room-calculator```
 
 2️⃣ Install Dependencies
