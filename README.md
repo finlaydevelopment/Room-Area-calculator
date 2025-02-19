@@ -17,13 +17,15 @@ A professional **React-based Room Calculator** that helps users determine how ma
 ## 📦 Installation & Setup
 
 ### **1️⃣ Clone the Repository**
-cd room-calculator
+```cd room-calculator```
 
 2️⃣ Install Dependencies
-npm install
+
+```npm install```
 
 3️⃣ Run the Development Server
-npm start
+
+```npm start```
 
 🚀 The project will be available at http://localhost:3000.
 
